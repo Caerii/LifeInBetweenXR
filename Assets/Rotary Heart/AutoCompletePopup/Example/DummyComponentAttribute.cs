@@ -35,6 +35,8 @@ public class DummyComponentAttribute : MonoBehaviour
     TMP_InputField prefabTest;
     [SerializeField]
     AutoCompletePrefab uiComplete;
+    [SerializeField]
+    GameObject uiLineSelector;
 
     public void ShowWindow()
     {
