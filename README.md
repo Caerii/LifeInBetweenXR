@@ -6,7 +6,7 @@ MIT Reality Hack 2023 3D Submission:Map Viewer by Team 2025.
 
 This app was designed to map all services and amenities available to you on the subway line you're surrently riding.
 
-![Life in Between](https://user-images.githubusercontent.com/88777150/212552159-72053ebc-b5e0-4a4b-ac0a-6187c429682b.gif)
+![HeaderInBetween](https://user-images.githubusercontent.com/88777150/212558537-bdcd2085-20ea-433e-a01f-478d31a172dc.gif)
 
 ## Team Members
 
