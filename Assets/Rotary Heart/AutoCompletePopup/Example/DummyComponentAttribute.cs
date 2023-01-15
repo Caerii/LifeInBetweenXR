@@ -41,7 +41,31 @@ public class DummyComponentAttribute : MonoBehaviour
     public void ShowWindow()
     {
 
-        uiComplete.AutoCompleteWindow(new string[] { 
+        uiComplete.AutoCompleteWindow(new string[] 
+        {
+            "Ashdown House, NW35",
+            "Baker House, W7",
+            "Cambridge Center",
+            "Campus Police, W89",
+            "Compton Court",
+            "Draper Lab",
+            "Eastman Court, near 6",
+            "German House",
+            "iHouse House",
+            "Information Center, 7-121",
+            "Lowell Court, near 2",
+            "McCormick Hall, W4",
+            "New House, W70",
+            "Next House, 500 Memorial Drive, W71"
+
+        }, null,
+
+            s =>
+            {
+                prefabTest.text = s;
+            }, separator: "/");
+
+        /*uiComplete.AutoCompleteWindow(new string[] { 
             "1 Broadway, E70",
 "Admissions Office, 3-108, 3-103",
 "Admissions Receptions, 10-100",
@@ -346,5 +370,6 @@ public class DummyComponentAttribute : MonoBehaviour
             {
                 prefabTest.text = s;
             }, separator:"/");
+        */
     }
 }
