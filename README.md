@@ -26,16 +26,12 @@ Our experience can be used for a variety of purposes, including:
 
 ## Functionalities
 
-![Screen01](https://user-images.githubusercontent.com/88777150/212555651-2f475d43-66ca-48fd-b8d8-50432702c1bd.gif)
-
-![Search](https://user-images.githubusercontent.com/88777150/212557443-7b32e1aa-6796-4ba7-9342-89f511219731.gif)
-
-![Bookmarks](https://user-images.githubusercontent.com/88777150/212557428-467d1475-381f-4881-a384-6c70a4dcf483.gif)
-
-![MapExplore](https://user-images.githubusercontent.com/88777150/212557488-35358300-4549-4eb5-80dc-dc3c7d6aa2fd.gif)
-
-![Settings](https://user-images.githubusercontent.com/88777150/212557601-7d613aec-35b8-4ca0-8a0d-4d641d40c3d4.gif)
-
+| View  | Features |
+| ------------- | ------------- |
+| ![Search](https://user-images.githubusercontent.com/88777150/212557443-7b32e1aa-6796-4ba7-9342-89f511219731.gif) | You can search services and places in the subway line of your choice. |
+| ![Bookmarks](https://user-images.githubusercontent.com/88777150/212557428-467d1475-381f-4881-a384-6c70a4dcf483.gif) | Keep bookmarks of your favorite places or the places you intend to visit halfway through your next commute. |
+| ![MapExplore](https://user-images.githubusercontent.com/88777150/212557488-35358300-4549-4eb5-80dc-dc3c7d6aa2fd.gif) | Explore in 3D the places exactly above your subway line even as you traverse it! |
+| ![Settings](https://user-images.githubusercontent.com/88777150/212557601-7d613aec-35b8-4ca0-8a0d-4d641d40c3d4.gif)  | Adjust your settings for a more comfortable commute.  |
 
 ## Dependencies
 
