@@ -2,7 +2,9 @@
 
 ![GitHub](https://img.shields.io/github/license/Caerii/XRTrainRide?style=for-the-badge)
 
-MIT Reality Hack 2023 3D Submission:Map Viewer by Team 2025.
+MIT Reality Hack 2023.
+
+3D Map Viewer by Team 2025.
 
 This app was designed to map all services and amenities available to you on the subway line you're surrently riding.
 
